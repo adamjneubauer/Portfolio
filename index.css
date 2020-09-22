@@ -1,0 +1,60 @@
+
+#namebar {
+    background-color: #5b9aa0;
+    color: white
+}
+
+h1 {
+    color: #5b9aa0
+}
+
+
+#pic1 {
+    max-width: 300px;
+    max-height: 300px;
+    float: left;
+    
+}
+
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+  }
+
+
+  @media screen and (max-width: 1000px) {
+    .wrapper {
+        width: 900px;
+        
+    }
+    p {
+        
+    }
+}
+  @media screen and (max-width: 800px) {
+    .wrapper {
+        width: 700px;
+    }
+    p{
+        margin:5px;
+    }
+}
+  }
+  @media screen and (max-width: 600px) {
+    .wrapper {
+        width: 550px;
+    }
+    p{
+        margin:5px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .wrapper {
+        width: 450px;
+    }

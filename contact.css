@@ -1,0 +1,18 @@
+#namebar {
+    background-color: #5b9aa0;
+    color: white
+}
+
+h1 {
+    color: #5b9aa0;
+}
+
+footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+  }
